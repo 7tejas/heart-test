@@ -34,13 +34,12 @@ The dataset has 14 attributes:
 - `data.csv`: the dataset file.
 - `Heart_Disease_Classification.ipynb`: contains the code of data exploration, preparation and modeling. 
 - `model.pkl`: the classification model. 
-- `heart_disease_app.py`: Flask API that bind between the classification model and the web page. 
+- `app.py`: Flask API that bind between the classification model and the web page. 
 - templates:
 	- `Heart Disease Classifier.html`: a web page that contains a form for heart disease testing. 
 	
 
-## Data Scince Life Cycle Article
-This [article] (https://medium.com/analytics-vidhya/the-lifecycle-to-build-a-web-app-for-prediction-from-scratch-bec1632b5f27) explaines the steps to build the heart disease classifier web App. 
+
 
 	
 
