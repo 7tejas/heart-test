@@ -1,14 +1,10 @@
-## Heart Disease Classifier
+## Heart Disease Prediction
 
 ## Project Overview
 
-The data science lifecycle is designed for big data issues and the data science projects. Generally, the data science project consists of seven steps which are problem definition, data collection, data preparation, data exploration, data modeling, model evaluation and model deployment.
+The major challenge in heart disease is its detection. Early detection of cardiac diseases can decrease the mortality rate and overall complications. Since we have a good amount of data in today’s world, we can use various machine learning algorithms to analyse the data for hidden patterns. The hidden patterns can be used for health diagnosis in medicinal data.
+The core idea of project is to predict heart diseases using machine learning. I have built a machine learning model and integrated it with a web application. It predicts whether the patient is likely to have heart disease or not.
 
-The goal of this project is to go through the data science lifecycle steps in order to build a heart disease classification web application by using [UCI heart disease](https://archive.ics.uci.edu/ml/datasets/statlog+(heart)) dataset. This project uses Flask API to deploy the model and build the web application.
-
-## Installation 
-
-All libraries are available in Anaconda distribution of Python.
 
 ## Dataset
 The dataset has 14 attributes:
